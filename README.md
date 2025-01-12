@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/krishnaa6268/"><img src="https://readme-typing-svg.herokuapp.com/?lines= Self%20Taught%20Programmer; Curious,%20tinkerer,%20and%20explorer%20...&center=true&width=380&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines= Self%20Taught%20Programmer;Curious,%20tinkerer,%20and%20explorer%20...&center=true&width=380&height=45">
 </p>
 
 
