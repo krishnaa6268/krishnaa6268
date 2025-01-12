@@ -1,16 +1,12 @@
-<!--
 <h2 align="center">
-  Welcome to Krishnaa's World!
+  Welcome to Krishna's Home!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
+
 <p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines= Self%20Taught%20Programmer; Curious,%20tinkerer,%20and%20explorer%20...&center=true&width=380&height=45"></a>
 </p>
-
- -->
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@179bf567-433f-4a26-9be6-f0c6654eb093)
 
@@ -26,7 +22,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Krishna+Kumar+Gupta+Jiwaji">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>INDIA</b> 」
+    「 I am a full stack web application developer from <b>INDIA 🇮🇳</b> 」
     <br>
     <br>
   </samp>
