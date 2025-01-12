@@ -21,7 +21,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Krishna+Kumar+Gupta+Jiwaji">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>INDIA 🇮🇳</b> 」
+    「 I am a full stack web application developer from <b>INDIA 🇮🇳</b>
     <br>
     <br>
   </samp>
@@ -38,15 +38,31 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+
+<div align="left"> 
+  <h3> 👨🏻‍💻 [About Me] </h3>
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
+ 🎓 &nbsp; Pursuing Masters of Computer Application.
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features & Technology.<br/><br/>
  📧 &emsp; Reach me anytime: krishnaguptamdz@gmail.com<br/><br/>
-</p>
+  
+</div> 
+</div>
+
+
+<div>
+  <h3> 💻 [Tool & Technologies] </h3>
+  <p>
+<ul>
+  <li><h4>Languages:</h4> Java | C | MySQL | HTML | CSS | JavaScript</li>
+  <li><h4>Developer Tools:</h4> VS Code | Apache NetBeans | Figma | Pieces for Developers</li>
+  <li><h4>Deployments:</h4> Git & GitHub | Vercel</li>
+</ul>
+  <p>
+</div>
+
 
 <br/>
 <br/>
