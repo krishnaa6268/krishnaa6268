@@ -39,7 +39,7 @@
 
 <!-- About Section -->
 
-<div align="left"> 
+<div> 
   <h3> 👨🏻‍💻 [About Me] </h3>
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
