@@ -41,8 +41,6 @@
 
 <div> 
   <h3> 👨🏻‍💻 [About Me] </h3>
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-
  🎓 &nbsp; Pursuing Masters of Computer Application(MCA). <br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features & Technology.<br/><br/>
