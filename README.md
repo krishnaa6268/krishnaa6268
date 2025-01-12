@@ -21,7 +21,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Krishna+Kumar+Gupta+Lnct">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>INDIA 🇮🇳 </b>」
+    「 I am a web application developer from <b>INDIA 🇮🇳 </b>」
     <br>
     <br>
   </samp>
@@ -51,7 +51,7 @@
 
 
 <div>
-  <h3> 💻 [Tool & Technologies] </h3>
+  <h3> 💻 [Tools & Technologies] </h3>
   <p>
 <ul>
   <li><h4>Languages:</h4> Java | C | MySQL | HTML | CSS | JavaScript</li>
