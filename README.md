@@ -68,7 +68,7 @@
 
 
 <div>
-  <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/VivekGuptaMDz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahesh4387" height="30" width="40" /></a>
   
@@ -80,7 +80,7 @@
 
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa6268&" alt="krishnaa6268" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa6268" alt="krishnaa6268" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaa6268&show_icons=true&locale=en" alt="krishnaa6268" /></p>
 <br>
