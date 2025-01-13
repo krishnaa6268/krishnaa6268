@@ -1,5 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@179bf567-433f-4a26-9be6-f0c6654eb093)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaa6268&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaa6268" /> </p>
+<img src="https://komarev.com/ghpvc/?username=krishnaa6268&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaa6268" /> 
+
 <h1 align="center">
   Welcome to Krishna's Home!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
