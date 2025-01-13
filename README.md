@@ -22,8 +22,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Krishna+Kumar+Gupta+Lnct">「 Google Me 」</a>
     <br>
-    「 I am a web application developer from <b>INDIA 🇮🇳</b>」
-    <br>
+    「 I am an application developer from <b>INDIA 🇮🇳</b>」
     <br>
   </samp>
 </p>
