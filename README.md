@@ -67,22 +67,19 @@
 </div>
 
 
-<div align="left">
+<div>
 <h3 align="left">Connect with me:</h3>
-<p>
+<p  align="left">
 <a href="https://x.com/VivekGuptaMDz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahesh4387" height="30" width="40" /></a>
-  
 <a href="https://linkedin.com/in/krishnaa6268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahesh407" height="30" width="40" /></a>
-  
 <a href="https://www.leetcode.com/krishnaa6268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahesh_87/" height="30" width="40" /></a>
 </p>
 </div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnaa6268&show_icons=true&locale=en&layout=compact" alt="krishnaa6268" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaa6268&show_icons=true&locale=en" alt="krishnaa6268" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa6268" alt="krishnaa6268" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnaa6268&show_icons=true&locale=en" alt="krishnaa6268" /></p>
 <br>
 
