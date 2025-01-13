@@ -54,7 +54,7 @@
   <p>
 </div>
 
-
+<br>
 <div>
 <h3 align="left"> 🤝 [Connect with me] </h3>
 <p  align="left">
@@ -74,6 +74,6 @@
 
   <br>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa6268" alt="krishnaa6268" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnaa6268&" alt="krishnaa6268" /></p>
   <br>
 </div>
