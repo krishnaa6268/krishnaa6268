@@ -17,17 +17,14 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Krishna+Kumar+Gupta+Lnct">「 Google Me 」</a>
     <br>
-    「 I am an application developer from <b>INDIA 🇮🇳</b>」
+    「 I am an application developer from <b>INDIA 🇮🇳</b> 」
     <br>
   </samp>
 </p>
-
-<br>
 
 <!-- About Section -->
 
